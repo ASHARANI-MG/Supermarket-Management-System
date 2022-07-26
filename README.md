@@ -2,9 +2,9 @@
 
 File Structure mini project
 
-Sorting
-Buffer management
-File compression
+Sorting,
+Buffer management,
+File compression.
 
 USERNAME:Admin
 
